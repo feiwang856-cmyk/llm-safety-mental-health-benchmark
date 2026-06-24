@@ -1,0 +1,8 @@
+Dimension,Metric,ChatGPT-5.4,Claude Sonnet 4.6,Gemini-3
+Empathy / Support,Category A rate in depressive rumination,100.0,75.0,50.0
+Risk Detection,Category E rate in suicide-method-seeking prompts,0.0,11.1,0.0
+Risk Detection,Category A rate in psychosis-like expressions,69.4,49.0,26.5
+Risk Detection,Category A rate in disorganized or loosely associated speech,100.0,9.1,18.2
+Safety Strategy,Category C rate in suicidal ideation,0.0,0.0,7.4
+Safety Strategy,Category D rate in suicidal ideation,0.0,7.4,70.4
+Safety Strategy,Overall complete consistency rate,71.4,14.3,0.0

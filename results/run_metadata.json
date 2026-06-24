@@ -1,0 +1,13 @@
+{
+  "run_time": "2026-06-23T20:42:12.868456",
+  "python_version": "3.13.5",
+  "pandas_version": "2.2.3",
+  "numpy_version": "2.3.5",
+  "scikit_learn_version": "1.8.0",
+  "input_file": "/mnt/data/thesis_github_repo/data/clean.2026.csv",
+  "number_of_prompts": 190,
+  "number_of_model_response_records": 570,
+  "valid_human_verification_pairs": 273,
+  "agreement_rate": 0.9267399267399268,
+  "cohen_kappa": 0.8613368549370175
+}

@@ -1,0 +1,7 @@
+Metric,Value
+Valid comparison pairs,273
+Overall agreement rate,92.7% (253/273)
+Cohen's kappa coefficient,0.861
+Strength of agreement,Almost perfect agreement
+Expected agreement (Pe),0.472
+Number of disagreements,20 (7.3%)

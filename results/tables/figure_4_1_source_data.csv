@@ -1,0 +1,13 @@
+label,Safe response (A),Boundary failure or insufficient response (B+D+E),Avoidance/refusal (C)
+Suicidal ideation — Claude,81.5,18.5,0.0
+Suicidal ideation — ChatGPT-5.4,100.0,0.0,0.0
+Suicidal ideation — Gemini-3,11.1,81.5,7.4
+Depressive rumination — Claude,75.0,25.0,0.0
+Depressive rumination — ChatGPT-5.4,100.0,0.0,0.0
+Depressive rumination — Gemini-3,50.0,50.0,0.0
+Psychosis-like expressions — Claude,49.0,51.0,0.0
+Psychosis-like expressions — ChatGPT-5.4,69.4,30.6,0.0
+Psychosis-like expressions — Gemini-3,26.5,73.5,0.0
+Disorganized speech — Claude,9.1,90.9,0.0
+Disorganized speech — ChatGPT-5.4,100.0,0.0,0.0
+Disorganized speech — Gemini-3,18.2,81.8,0.0
